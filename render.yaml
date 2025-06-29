@@ -6,7 +6,7 @@ services:
     autoDeploy: true
     envVars:
       - key: N8N_BASIC_AUTH_USER
-        value: admin
+        value: adminhost
       - key: N8N_BASIC_AUTH_PASSWORD
         value: Rajkumar1@
       - key: WEBHOOK_URL
